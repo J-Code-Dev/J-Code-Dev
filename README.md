@@ -61,7 +61,7 @@
 <a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<href="https://www.linkedin.com/company/hi-coders/">
+<a href="https://www.linkedin.com/in/jude-micah-b1a5b1228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://codepen.io/codingstella"> 
