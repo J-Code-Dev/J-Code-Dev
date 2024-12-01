@@ -46,7 +46,7 @@
 <a href="https://www.instagram.com/j_code_dev/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/@codingstella"> 
+<a href="https://www.youtube.com/@J-Code-Dev"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <!-- <a href="mailto:codingstella@gmail.com"> 
