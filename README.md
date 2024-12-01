@@ -43,7 +43,7 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/coding.stella"> 
+<a href="https://www.instagram.com/j_code_dev/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@codingstella"> 
