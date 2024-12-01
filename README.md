@@ -49,21 +49,21 @@
 <a href="https://www.youtube.com/@J-Code-Dev"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<!-- <a href="mailto:codingstella@gmail.com"> 
+<a href="mailto:codingstella@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a> -->
-<!-- <a href="https://www.github.com/codingstella"> 
+</a>
+<a href="https://www.github.com/codingstella"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a> -->
-<!-- <a href="https://twitter.com/codingstellaa"> 
+</a>
+<a href="https://twitter.com/codingstellaa"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a> -->
+</a>
 <a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+<href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>-->
+</a>
 <a href="https://codepen.io/codingstella"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
