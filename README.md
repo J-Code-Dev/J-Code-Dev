@@ -24,6 +24,17 @@
 <br />
 <br />
 
+### Technical Skills
+- **Programming Languages**: PHP, JavaScript, Dart.
+- **Infrastructure & Cloud**: AWS, Digital Ocean, Google Cloud Platform (GCP), Docker.
+- **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
+- **Mobile Development**: Flutter (Dart), React Native.
+- **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
+- **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
+- **CI/CD & Automation Tools**: GitHub Actions, GitLab CI, Jenkins, Ansible, Terraform.
+- **Containerization & Orchestration**: Docker, Kubernetes.
+- **Monitoring & Visualization**: Prometheus, Grafana.
+- **Development Methodologies**: Experienced in Agile, Scrum, Kanban, and Sprint Planning.
 <!-- ## 🏆 **GITHUB TROPHY**
 
 ![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
@@ -68,19 +79,6 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <br />
-### Technical Skills
-- **Programming Languages**: PHP, JavaScript, Dart.
-- **Infrastructure & Cloud**: AWS, Digital Ocean, Google Cloud Platform (GCP), Docker.
-- **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
-- **Mobile Development**: Flutter (Dart), React Native.
-- **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
-- **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
-- **CI/CD & Automation Tools**: GitHub Actions, GitLab CI, Jenkins, Ansible, Terraform.
-- **Containerization & Orchestration**: Docker, Kubernetes.
-- **Monitoring & Visualization**: Prometheus, Grafana.
-- **Development Methodologies**: Experienced in Agile, Scrum, Kanban, and Sprint Planning.
-
-## 🕸️ **WEB DEV**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
@@ -157,8 +155,8 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][repo]
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")][repo]
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")][repo]
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)][repo]
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)][repo]
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")][repo]
