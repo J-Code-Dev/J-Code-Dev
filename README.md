@@ -1,7 +1,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 
 <br />
+---
 
+# Micah Jude 👋  
+### Full Stack Developer
+---
+
+### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 **I am a self-taught Full-stack web/mobile developer from Nigeria.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
