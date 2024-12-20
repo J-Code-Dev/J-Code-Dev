@@ -68,6 +68,17 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <br />
+### Technical Skills
+- **Programming Languages**: PHP, JavaScript, Dart.
+- **Infrastructure & Cloud**: AWS, Digital Ocean, Google Cloud Platform (GCP), Docker.
+- **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
+- **Mobile Development**: Flutter (Dart), React Native.
+- **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
+- **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
+- **CI/CD & Automation Tools**: GitHub Actions, GitLab CI, Jenkins, Ansible, Terraform.
+- **Containerization & Orchestration**: Docker, Kubernetes.
+- **Monitoring & Visualization**: Prometheus, Grafana.
+- **Development Methodologies**: Experienced in Agile, Scrum, Kanban, and Sprint Planning.
 
 ## 🕸️ **WEB DEV**
 
@@ -127,9 +138,15 @@
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2300ADD8.svg?style=for-the-badge&logo=flutter&logoColor=white)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")][repo]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
+
 
 <!-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] -->
 
@@ -140,6 +157,8 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][repo]
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")][repo]
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")][repo]
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)][repo]
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)][repo]
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")][repo]
