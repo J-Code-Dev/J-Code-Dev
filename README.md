@@ -51,10 +51,10 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="J-Code-Dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="J-Code-Dev" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="J-Code-Dev" /></a> </p>
 
 
 ## 🌏 **CONNECT WITH ME**
@@ -65,10 +65,10 @@
 <a href="https://www.youtube.com/@J-Code-Dev"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<a href="mailto:codingstella@gmail.com"> 
+<a href="mailto:micahjudebrain1998@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.github.com/codingstella"> 
+<a href="https://www.github.com/J-Code-Dev"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <a href="https://twitter.com/codingstellaa"> 
