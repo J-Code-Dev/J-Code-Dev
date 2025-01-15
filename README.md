@@ -49,7 +49,7 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="J-Code-Dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
 
