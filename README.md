@@ -31,7 +31,6 @@
 
 <br />
 
-<br />
 
 ### Technical Skills
 - **Programming Languages**: PHP, JavaScript, Dart.
