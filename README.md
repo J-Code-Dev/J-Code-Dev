@@ -1,6 +1,5 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 ---
-
 # Micah Jude 👋  
 ### Full-Stack Developer
 ---
