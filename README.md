@@ -6,7 +6,6 @@
 ### Full-Stack Developer
 ---
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/J-Code-Dev?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/incrisz?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)  
-![]
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 **I am a self-taught Full-stack web/mobile developer from Nigeria.**
