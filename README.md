@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="600" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+[![Header](https://github.com/J-Code-Dev/J-Code-Dev/blob/master/banner.png?raw=true "Header")](https://github.com/J-Code-Dev)
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 
