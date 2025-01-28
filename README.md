@@ -1,6 +1,4 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
-
-
 ---
 # Micah Jude 👋  
 ### Full-Stack Developer
@@ -29,7 +27,6 @@
 • 📫 Reach me out <a href="https://www.instagram.com/j_code_dev/"><b>@J_Code_Dev</b></a><br/>
 </span>
 
-<br />
 <br />
 
 ### Technical Skills
