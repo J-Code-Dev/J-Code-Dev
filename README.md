@@ -1,8 +1,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 ---
+
 # Micah Jude 👋  
 ### Full-Stack Developer
 ---
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/J-Code-Dev?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/J-Code-Dev?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)  
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-Code-Dev.J-Code-Dev)  
