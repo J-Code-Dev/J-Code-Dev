@@ -4,6 +4,7 @@
 ### Full-Stack Developer
 ---
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/J-Code-Dev?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/J-Code-Dev?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)  
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-Code-Dev.J-Code-Dev)  
 [![Github](https://img.shields.io/github/followers/J-Code-Dev?label=Follow&style=social)](https://github.com/J-Code-Dev)
 
@@ -26,6 +27,8 @@
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/j_code_dev/"><b>@J_Code_Dev</b></a><br/>
 </span>
+
+<br />
 
 <br />
 
