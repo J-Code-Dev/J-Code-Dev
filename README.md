@@ -102,12 +102,15 @@
     <img align="center" alt="Incrisz | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/godwin-incrisz-506473214/" target="_blank">
-    <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/jude-micah-b1a5b1228/" target="_blank">
+    <img align="center" alt="J-Code-Dev | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/J-Code-Dev" target="_blank">
     <img align="center" alt="J-Code-Dev | GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/J-Code-Dev" target="_blank">
+    <img align="center" alt="J-Code-Dev | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Instagram.svg/1024px-Instagram.svg.png" />
   </a> &nbsp;&nbsp;
 </p>
 
