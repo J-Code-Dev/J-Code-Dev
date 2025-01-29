@@ -54,7 +54,7 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&locale=en" alt="J-Code-Dev" /></p>
+[![J-Code-Dev github stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Code-Dev&" alt="J-Code-Dev" /></p>
 
