@@ -109,9 +109,6 @@
   <a href="https://github.com/J-Code-Dev" target="_blank">
     <img align="center" alt="J-Code-Dev | GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/J-Code-Dev" target="_blank">
-    <img align="center" alt="J-Code-Dev | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Instagram.svg/1024px-Instagram.svg.png" />
-  </a> &nbsp;&nbsp;
 </p>
 
 <br/>
