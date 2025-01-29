@@ -58,9 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="J-Code-Dev" /></p>
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="J-Code-Dev" /></a> </p>
-
 
 ## 🌏 **CONNECT WITH ME**
 
