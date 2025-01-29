@@ -54,14 +54,7 @@
 <br /> -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
-
-# 📊 GitHub Stats:
- [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Micah Jude current streak](https://streak-stats.demolab.com/?user=J-Code-Dev&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Cloud Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -72,6 +65,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+# 📊 GitHub Stats:
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Micah Jude current streak](https://streak-stats.demolab.com/?user=J-Code-Dev&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 
 <br />
