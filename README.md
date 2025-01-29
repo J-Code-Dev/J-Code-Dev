@@ -54,9 +54,9 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="J-Code-Dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&locale=en" alt="J-Code-Dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="J-Code-Dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Code-Dev&" alt="J-Code-Dev" /></p>
 
 
 ## 🌏 **CONNECT WITH ME**
