@@ -56,7 +56,9 @@
 # 📊 GitHub Stats:
 [![J-Code-Dev github stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top languages](https://github-readme-J-Code-Dev.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)]
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Code-Dev&" alt="J-Code-Dev" /></p>
 
 
