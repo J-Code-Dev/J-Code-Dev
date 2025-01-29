@@ -60,6 +60,7 @@
 
 ![Micah Jude current streak](https://streak-stats.demolab.com/?user=J-Code-Dev&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+
 ## 🌏 **CONNECT WITH ME**
 
 <a href="https://www.instagram.com/j_code_dev/"> 
