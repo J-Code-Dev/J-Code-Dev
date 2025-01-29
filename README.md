@@ -84,6 +84,17 @@
 
 <br />
 
+
+<hr />
+
+### **Thanks for checking out my GitHub Profile!** 🙏
+
+<br />
+
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![](https://img.shields.io/github/followers/J-Code-Deva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
 <p align="center">
@@ -99,17 +110,6 @@
     <img align="center" alt="Incrisz | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p>
-
-<hr />
-
-### **Thanks for checking out my GitHub Profile!** 🙏
-
-<br />
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![](https://img.shields.io/github/followers/J-Code-Deva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
 
 <br/>
 <p align="center">
