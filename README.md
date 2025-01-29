@@ -59,7 +59,7 @@
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Code-Dev&" alt="J-Code-Dev" /></p>
+[![Micah Jude current streak](https://streak-stats.demolab.com/?user=J-Code-Dev&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 ## 🌏 **CONNECT WITH ME**
