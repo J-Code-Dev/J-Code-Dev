@@ -54,7 +54,7 @@
 <br /> -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,vim,subline,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,vim,sublime,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Languages & Frameworks
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -84,6 +84,21 @@
 
 <br />
 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
+
+<p align="center">
+  <a href="mailto:godwinincrisz@gmail.com" >
+    <img align="center" alt="Incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/godwin-incrisz-506473214/" target="_blank">
+    <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/Incrisz" target="_blank">
+    <img align="center" alt="Incrisz | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+</p>
 
 <hr />
 
