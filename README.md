@@ -98,16 +98,16 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
 <p align="center">
-  <a href="mailto:godwinincrisz@gmail.com" >
-    <img align="center" alt="Incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:micahjudebrain1998@gmail.com" >
+    <img align="center" alt="Incrisz | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/godwin-incrisz-506473214/" target="_blank">
     <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/Incrisz" target="_blank">
-    <img align="center" alt="Incrisz | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/J-Code-Dev" target="_blank">
+    <img align="center" alt="J-Code-Dev | GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p>
 
