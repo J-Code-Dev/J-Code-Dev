@@ -54,7 +54,7 @@
 <br /> -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materializecss,javascript,bootstrap,vite,ts,next,expressjs,nodejs,mongodb,mysql,firebase,md,git,github,linux,vscode,vim,sublime,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,Materialize,javascript,bootstrap,vite,ts,next,expressjs,nodejs,mongodb,mysql,firebase,md,git,github,linux,vscode,vim,sublime,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Languages & Frameworks
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
