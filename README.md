@@ -36,7 +36,7 @@
 
 ### Technical Skills
 - **Programming Languages**: PHP, JavaScript, Dart.
-- **Infrastructure & Cloud**: AWS, Digital Ocean, Google Cloud Platform (GCP), Docker.
+- **Infrastructure & Cloud**: AWS, Azure, Digital Ocean, Google Cloud Platform (GCP), Docker.
 - **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
 - **Mobile Development**: Flutter (Dart), React Native.
 - **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
