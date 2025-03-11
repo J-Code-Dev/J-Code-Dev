@@ -38,7 +38,7 @@
 - **Programming Languages**: PHP, JavaScript, Dart.
 - **Infrastructure & Cloud**: AWS, Azure, Digital Ocean, Google Cloud Platform (GCP), Docker.
 - **Frontend Development**: HTML, CSS, JavaScript Node.js (ReactJS | ExpressJS).
-- **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
+- **Backend Development**: Laravel, Node.js (NextJS | ExpressJS).
 - **Mobile Development**: Flutter (Dart), React Native.
 - **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 - **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
