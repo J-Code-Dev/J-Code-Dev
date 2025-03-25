@@ -126,7 +126,7 @@
     <img align="center" alt="J-Code-Dev | GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![](https://readme-jokes.vercel.app/api)
 
 <br/>
 <p align="center">
