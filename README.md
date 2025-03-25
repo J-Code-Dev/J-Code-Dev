@@ -79,7 +79,7 @@
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udokaokoye&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/udokaokoye/github-readme-stats)](#)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udokaokoye&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/udokaokoye/github-readme-stats)
 
 [![Micah Jude current streak](https://streak-stats.demolab.com/?user=J-Code-Dev&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
