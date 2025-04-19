@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/J-Code-Dev/J-Code-Dev/master/assets/banner.png" alt="Profile Banner" />
+  ![Welcome to My GitHub](https://raw.githubusercontent.com/J-Code-Dev/J-Code-Dev/main/banner.png)
 </p>
 
 ---
