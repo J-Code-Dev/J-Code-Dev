@@ -1,4 +1,4 @@
-![Banner]([https://link-to-your-image.com](https://imgur.com/0xCdhG0)/banner.png)
+![Banner](https://i.imgur.com/0xCdhG0.png)
 
 
 ---
