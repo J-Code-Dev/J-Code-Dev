@@ -1,4 +1,5 @@
- ![Welcome to My GitHub](https://raw.githubusercontent.com/J-Code-Dev/J-Code-Dev/main/banner.png)
+![Banner]([https://link-to-your-image.com](https://imgur.com/0xCdhG0)/banner.png)
+
 
 ---
 # Micah Jude 👋  
