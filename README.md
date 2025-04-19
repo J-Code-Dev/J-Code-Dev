@@ -1,5 +1,6 @@
-[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/J-Code-Dev)
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d-code-h/d-code-h/main/assets/banner.jpg" alt="Profile Banner" />
+</p>
 
 ---
 # Micah Jude 👋  
