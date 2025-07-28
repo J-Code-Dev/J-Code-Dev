@@ -120,12 +120,12 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/micahjude)
-- **Twitter**: [@abdul_abuaslam](https://x.com/J_Code_Dev)
-- **GitHub**: [@abuaslamtech](https://github.com/abuaslamtech)
--  **FaceBook**: [@abuaslamtech](https://web.facebook.com/JCode.Dev/)
+- **Twitter**: [@J_Code_Dev](https://x.com/J_Code_Dev)
+- **GitHub**: [@J-Code-Dev](https://github.com/J-Code-Dev)
+-  **FaceBook**: [JCode.Dev](https://web.facebook.com/JCode.Dev/)
 
 <p align="center">
   <a href="mailto:micahjudebrain1998@gmail.com" >
