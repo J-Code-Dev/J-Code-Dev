@@ -37,7 +37,7 @@
 ### Technical Skills
 - **Programming Languages**: PHP, JavaScript, Dart.
 - **Infrastructure & Cloud**: AWS, Azure, Digital Ocean, Google Cloud Platform (GCP), Docker.
-- **Frontend Development**: HTML, CSS, JavaScript Node.js (ReactJS | ExpressJS).
+- **Frontend Development**: HTML, CSS, JavaScript(ES6+), Node.js (ReactJS | ExpressJS), TailwindCSS.
 - **Backend Development**: Laravel, Node.js (NextJS | ExpressJS).
 - **Mobile Development**: Flutter (Dart), React Native.
 - **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
