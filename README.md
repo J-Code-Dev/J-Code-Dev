@@ -122,9 +122,10 @@
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/abuaslamtech)
-- **Twitter**: [@abdul_abuaslam](https://twitter.com/abuaslamtech)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/micahjude)
+- **Twitter**: [@abdul_abuaslam](https://x.com/J_Code_Dev)
 - **GitHub**: [@abuaslamtech](https://github.com/abuaslamtech)
+-  **FaceBook**: [@abuaslamtech](https://web.facebook.com/JCode.Dev/)
 
 <p align="center">
   <a href="mailto:micahjudebrain1998@gmail.com" >
