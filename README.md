@@ -120,6 +120,12 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
+## 📫 Let's Connect!
+
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/abuaslamtech)
+- **Twitter**: [@abdul_abuaslam](https://twitter.com/abuaslamtech)
+- **GitHub**: [@abuaslamtech](https://github.com/abuaslamtech)
+
 <p align="center">
   <a href="mailto:micahjudebrain1998@gmail.com" >
     <img align="center" alt="Incrisz | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
