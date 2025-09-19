@@ -95,7 +95,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 # 📊 GitHub Stats:
- [![J-Code-Dev github stats](https://bad-apple-github-readme.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![J-Code-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
