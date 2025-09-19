@@ -101,8 +101,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udokaokoye&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/udokaokoye/github-readme-stats)
 
-[![(https://streak-stats.demolab.com?user=J-Code-Dev&theme=blue-green)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=J-Code-Dev&theme=blue-green)](https://git.io/streak-stats)
 
 
 <br />
