@@ -112,8 +112,6 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/J-Code-Deva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/micahjude)
