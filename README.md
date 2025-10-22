@@ -28,7 +28,7 @@
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/j_code_dev/"><b>@J_Code_Dev</b></a><br/> 
-•[Resume / CV](https://drive.google.com/file/d/1lSSnkdB6Yq236uIo1nXciWRDOOyV5vJr/view?usp=sharing)
+• 🔗 [Resume / CV](https://drive.google.com/file/d/1g6Yxxile2pUy6Ejd2-oA0g97ce8umofv/view?usp=drive_link)<br/> 
 </span>
 
 <br />
