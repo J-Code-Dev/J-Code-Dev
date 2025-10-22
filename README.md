@@ -92,9 +92,9 @@
 
 
 # 📊 GitHub Stats:
-[![J-Code-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![J-Code-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udokaokoye&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/udokaokoye/github-readme-stats)
 
