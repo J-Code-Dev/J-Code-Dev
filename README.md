@@ -92,7 +92,9 @@
 
 
 # 📊 GitHub Stats:
-[![J-Code-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Code-Dev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](https://github.com/J-Code-Dev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Code-Dev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](https://github.com/J-Code-Dev)
 
 
 
